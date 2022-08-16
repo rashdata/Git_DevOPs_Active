@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My journey into Git_React_Devops.
+          My journey into Git_React_Devops_one
         </a>
       </header>
     </div>
